@@ -6,7 +6,7 @@ h1 {
 
 p {
     font-family: 'Lucida Sans';
-    font-size: 30px;
+    text-indent: 30px;
     font-style: bold;
 }
 
@@ -14,14 +14,14 @@ h2 {
     font-size: 22px;
     color: blue;
     font-style: italic;
-    text-align: left;
+    text-align: right;
 }
 
 h3
 {
     text-decoration: underline ;
     color: #007722;
-    font-size: 15px;
+    letter-spacing: 15px;
 
 }
 
@@ -29,6 +29,7 @@ h4 {
     color: #007722;
     font-size: 18px;
     text-transform: uppercase;
+    word-spacing: 18px;
 }
 
 h5 {
