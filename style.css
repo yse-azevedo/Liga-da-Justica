@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    font-style: bold;
+}
+
+h2 {
+    font-size: 22px;
+    color: blue;
+    font-style: italic;
+    text-align: left;
+}
+
+h3
+{
+    text-decoration: underline ;
+    color: #007722;
+    font-size: 15px;
+
+}
+
+h4 {
+    color: #007722;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-size: 22px;
+    color: blue;
+    text-transform: uppercase;
+
+}
+h6{
+    font-size: 16PX;
+    color: #8a7b2c;
+    text-transform: lowercase;
+
+}
